@@ -31,7 +31,7 @@
     "vuex-persist": "latest",
     "collect.js": "latest",
     "apollo-link-error": "latest",
-    "snyk": "^1.337.0"
+    "snyk": "^1.465.0"
   },
   "devDependencies": {
     "@types/chart.js": "^2.7.42",
@@ -41,10 +41,10 @@
     "@vue/cli-plugin-pwa": "^3.2.0",
     "@vue/cli-plugin-typescript": "^3.2.0",
     "@vue/cli-plugin-unit-jest": "^3.2.0",
-    "@vue/cli-service": "^4.0.0",
+    "@vue/cli-service": "^4.2.0",
     "@vue/test-utils": "^1.0.0",
     "graphql-tag": "^2.10.0",
-    "lint-staged": "^8.1.0",
+    "lint-staged": "^8.1.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "ts-jest": "^25.3.0",
