@@ -535,4 +535,4 @@ patch:
     - vue-cli-plugin-apollo > apollo > @oclif/plugin-plugins > cli-ux > lodash:
         patched: '2020-06-09T14:58:07.207Z'
     - lint-staged > yup > lodash:
-        patched: '2021-09-21T18:36:51.640Z'
+        patched: '2021-09-21T18:37:35.999Z'
