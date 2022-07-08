@@ -45,7 +45,7 @@
     "lodash.pick": "^4.4.0",
     "lusca": "^1.6.1",
     "lzutf8": "^0.5.5",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "pascal-case": "^2.0.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
