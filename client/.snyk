@@ -537,6 +537,6 @@ patch:
     - lint-staged > yup > lodash:
         patched: '2021-09-21T18:37:35.999Z'
     - '@vue/cli-plugin-unit-jest > @babel/core > lodash':
-        patched: '2022-12-03T14:40:15.965Z'
+        patched: '2022-12-03T14:40:30.635Z'
     - '@vue/cli-plugin-unit-jest > @babel/core > @babel/helper-module-transforms > lodash':
-        patched: '2022-12-03T14:40:15.965Z'
+        patched: '2022-12-03T14:40:30.635Z'
