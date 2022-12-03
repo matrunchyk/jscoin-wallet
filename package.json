@@ -52,7 +52,7 @@
     "require-all": "^3.0.0",
     "validator": "^13.6.0",
     "winston": "^2.4.4",
-    "snyk": "^1.685.0"
+    "snyk": "^1.1064.0"
   },
   "devDependencies": {
     "@types/async": "^2.0.50",
