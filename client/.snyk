@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.22.1
+version: v1.25.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -536,3 +536,7 @@ patch:
         patched: '2020-06-09T14:58:07.207Z'
     - lint-staged > yup > lodash:
         patched: '2021-09-21T18:37:35.999Z'
+    - '@vue/cli-plugin-unit-jest > @babel/core > lodash':
+        patched: '2022-12-03T14:40:15.965Z'
+    - '@vue/cli-plugin-unit-jest > @babel/core > @babel/helper-module-transforms > lodash':
+        patched: '2022-12-03T14:40:15.965Z'
